@@ -1,0 +1,3 @@
+C:\Users\ACER\Desktop\TePe1\x64\Debug\TePe1.exe
+C:\Users\danie\Desktop\TePe1\x64\Debug\TePe1.exe
+C:\Daniel\Codes\C\TePe1\x64\Debug\TePe1.exe
