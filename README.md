@@ -9,3 +9,6 @@ Desenvolvimento da I.A. de um robô autônomo que se locomeve entre dois pontos 
 
 ## TP 3
 Implementação recursiva de conjuntos numéricos em Java.
+
+##
+fun fact: a diferença na porcentagem das linguagens mostra o quanto C é pouco otimizado
