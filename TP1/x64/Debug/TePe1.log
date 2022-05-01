@@ -1,6 +1,0 @@
-﻿  TP1lib.c
-C:\Daniel\Codes\C\TePe1\TP1lib.c(111,41): warning C4047: 'função': 'lista_t *' difere em níveis de indireção de 'lista_t'
-C:\Daniel\Codes\C\TePe1\TP1lib.c(111,31): warning C4024: 'LiberaLista': tipos diferentes para parâmetro formal e real 1
-C:\Daniel\Codes\C\TePe1\TP1lib.c(188,41): warning C4047: 'função': 'lista_t *' difere em níveis de indireção de 'lista_t'
-C:\Daniel\Codes\C\TePe1\TP1lib.c(188,31): warning C4024: 'LiberaLista': tipos diferentes para parâmetro formal e real 1
-  TePe1.vcxproj -> C:\Daniel\Codes\C\TePe1\x64\Debug\TePe1.exe
