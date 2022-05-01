@@ -1,2 +1,2 @@
 # AEDS
-Disciplina de Algoritmos e Estruturas de Dados no Colégio 
+Trabalhos desenvolvidos na disciplina de Algorítmos e Estruturas de dados no meu segundo ano de estudos no COLTEC - UFMG
